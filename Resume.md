@@ -5,7 +5,7 @@
 
 ## Background
 
-I am a software developer who is always looking to utilize my skills and experience to help solve problems while still working to increase my knowledge.
+I am a software developer who is always looking to use my skills and experience to help solve problems while still working to increase my knowledge.
 
 My goal is to obtain a software development job with your company.
 
