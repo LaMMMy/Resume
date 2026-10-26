@@ -1,98 +1,79 @@
 # Benson Lott
+📍 Kelowna, BC | 📧 bensonlott@gmail.com | 📞 250-808-7141 | 
+________________________________________
+## Healthcare Integration Software Developer
+Seasoned Healthcare and Integration Developer with over 15 years of experience delivering large-scale applications and integration solutions for healthcare systems. Proven success in taking a leading role on modernization projects that enhance clinical results distribution, improve system reliability, and ensure compliance with healthcare standards. Collaborative, detail-driven, and dedicated to building scalable, future-ready digital health infrastructures.
 
- * <bensonlott@gmail.com>
- 
+________________________________________
+### Core Skills
+●	Healthcare Interoperability (HL7 v2/v3, CDA, FHIR, Mirth)
 
-## Background
+●	Business and Integration Architecture & Solution Design
 
-I am a software developer who is always looking to use my skills and experience to help solve problems while still working to increase my knowledge.
+●	Microsoft BizTalk Server (2010–2020)
 
-My goal is to obtain a software development job with your company.
+●	.NET Framework/Core, C#, ASP.NET, SQL Server
 
-## Proficiency
+●	XSLT, XML, JSON, REST/SOAP APIs
 
-I have been writing code, running servers and experimenting with new software since 2000. Most recently the majority of code I have written has been in C#, SQL Server, XML and JavaScript. I have experience in PHP, C++, JavaScript.
+●	Azure Integration Services (Logic Apps, Service Bus, API Management)
 
-## Relevant Work Experience
+●	Docker & Containerized Development
 
-### Software Developer ###
+●	CI/CD Pipelines – Azure DevOps
 
-#### Interior Health Authority - May 2010 to Present. Kelowna B.C. 
+●	Technical Leadership & Mentorship
 
-The Interior Health Authority App Dev team builds and supports over 100 internal business and clinical applications. Everything from Payroll applications to patient data integration systems.
-
-* Most recently working on “Clinical Distribution” project – A BizTalk/WCF powered distribution system for Clinical Document Architecture HL7v3 documents.
-*	Worked on ASP to C# .NET migration of application portal project for Payroll/HR department
-* Sole developer on Access Management Portal ASP.NET project
-* Main support contact for colleagues writing scripts for entering important Meditech data using Summit Scripting Tool from May to December 2010
-* Provide On Call support for all 24/7 supported systems
-
-_______
+●	Healthcare Compliance & Data Governance
 
 
-### Report Developer ###
+________________________________________
+## Professional Experience
+### Interior Health Authority – Kelowna, BC
+Senior Software Developer / Integration Architect | May 2010 – Present
+●	Senior developer in healthcare data integration initiatives across clinical and enterprise systems.
 
-#### Interior Health Authority - May 2008 to May 2010. Kelowna, BC
+●	Major role in the design and implementation of the Clinical Data Exchange (CDX) platform enabling interoperability through HL7 v2/v3, CDA, and FHIR messaging.
 
-The Interior Health Authority Report Development Team is responsible for creating and maintaining an extensive library of clinical, employee and business related reports from a variety of systems throughout the enterprise.
+●	Architected and deployed BizTalk Server (2013–2020), including upgrades and configuration of secure, scalable integration infrastructure spanning multiple environments.
 
-* Report Developer for the Home and Community Care (HCC) Referral Standardization Project
-* During the project, played a significant role in reviewing, developing and standardizing NPR HCC reports
-* Develop reports according to user specifications written in both NPR and DeskI environments
-* Provided support and maintenance of HCC and other non-HCC reports
+●	Developed and Implemented Azure Services and containerized environments (Docker) to modernize legacy workflows.
 
-_______
+●	Built CI/CD pipelines using Azure DevOps for automated build and deployment of IHA solutions, including BizTalk components, cutting deployment time/errors by a significant margin
 
-### Clinical Informatics Analyst (Home and Community Care) ###
+●	Provided mentorship and direction to developers and analysts on best practices in healthcare development and integration.
 
-#### Interior Health Authority - Sept 2007 to May 2008. Kelowna, BC
+#### Key Technologies:
+ BizTalk 2013–2020, C#, .NET Core, SQL Server, HL7, CDA, FHIR, XSLT, Azure (Function  Apps, App Services, Service Bus, various Storage technologies), Mirth Connect, Docker, Azure DevOps
+________________________________________
+## Interior Health Authority
+### Report Developer / Clinical Informatics Analyst | May 2008 – May 2010
+●	Developed and standardized Meditech reports for the Home & Community Care (HCC) project.
 
-The Home and Community Care team supports all users in the Home and Community Care realm of Interior Health Authority. This includes supporting all Assisted Living, Residential and Long Term Care nurses and support staff.
+●	Ensured clinical data integrity, reporting accuracy, and alignment with Ministry of Health standards.
 
-* Provided application support to Home and Community Meditech users via phone and e-mail
-* Was involved in various projects and upgrades to Meditech systems
-* Wrote documentation for projects
-* Ensured data integrity and conformity to Ministry of Health standards
-* Provided training when necessary to users for new projects and updates
-* Cultivated a trusting and friendly relationship with HCC users and managers.
+●	Supported Meditech upgrades and provided training and documentation for end users.
 
-_______
-
-### Software/Web Developer
-
-#### Acro Media Inc -  Sept 2005 to Sept 2007. Kelowna, BC 
-
-Acro Media is a cutting edge web technology firm. I personally credit them with helping me get my start in the *real world* of software development. The quality of products emerging from Acro Media is second to none and I've carried-on with that same desire for quality to my other places of employment.
-
-* Software Design and Development of Web-based applications (Using C++, PHP, HTML, Javascript, XML)
-* Database Design and Implementation
-* Development of Drupal powered websites
-* Maintenance of in-house e-commerce software
-* Wrote Project Documentation
-* Provided Software Time Estimates and Quotes
+________________________________________
 
 
+## Previous Experience
 
-_______
+#### Software Developer - Acro Media Inc.  |  2005–2007
+#### Help Desk - Bridges Transitions (Co-op work term)  |  Spring/Summer 2004
+#### Software Support - Total Care Technologies (Co-op work term)  |  Spring/Summer 2005
+#### IT Support - School District #23 (Co-op work term)  |  January - August 2003
+#### Computer Technician - Absolutely Computers  |  2001–2002
+#### Tire/Mechanical Technician - Fountain Tire | 2000-2001
+#### Oil Change/Tire Technician - Kelowna Chrysler | 1998 - 2000
+________________________________________
+Education
+Diploma in Computer Information Systems
+Okanagan University College - Kelowna, BC | 2004
+________________________________________
+Certifications
+●	HL7 Fundamentals Course 
+●	HL7 FHIR Fundamentals Course 
+●	HL7 FHIR Intermediate Course 
+________________________________________
 
-### Other Experience ###
-
-#### Help Desk Analyst - Bridges Transitions Inc.  co-op full-time 
- - May 2005 to Sept 2005. Kelowna, BC
-
-#### Software Support Analyst - Total Care Technologies. co-op full-time
- - May 2004 to Dec 2004. Kelowna, BC
-
-
-#### Helpdesk/Field Technician - School District #23. co-op full-time
- - Jan 2003 to Aug 2003. Kelowna, BC	
-
-#### Computer Technician - Absolutely Computers. Casual Computer Technician
- - Dec 2001 and 2002. Kelowna, BC
-
-________
-
-### Education:
-
-#### Okanagan College - Diploma in Computer Information Systems
- - 2001 - 2004. Kelowna, BC
